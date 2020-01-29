@@ -8,4 +8,4 @@
 
 ## Reports
 
-## FAQSSSS
+## FAQ
