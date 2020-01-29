@@ -1,3 +1,0 @@
-# OBO System
-
-## Introduction
